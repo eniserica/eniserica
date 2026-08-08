@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:132F52,100:1F4E79&height=140&section=header&text=%C3%89rica%20Silveira&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>{=html}
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:132F52,100:1F4E79&height=140&section=header&text=%C3%89rica%20Silveira&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 
 <br>
 
