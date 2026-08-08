@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://github.com/SEU_USUARIO">{=html}<img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/></a>{=html} <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-163A5F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/></a><a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-163A5F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 💙 About me
 
@@ -81,7 +81,7 @@ I'm constantly studying and building new projects.This portfolio will grow toget
 
 💌 Let's connect
 
-<a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/></a>  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Gmail-163A5F?style=for-the-badge&logo=gmail&logoColor=white"/>{=html}</a>
+<a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/></a>  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Gmail-163A5F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br><br>
 
