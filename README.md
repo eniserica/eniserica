@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:132F52,100:1F4E79&height=140&section=header&text=%C3%89rica%20Silveira&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:132F52,100:1F4E79&height=140&section=header"/>
 
 <br>
 
@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/></a><a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-163A5F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/eniserica"><img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/></a><a href="mailto:ericabsilveira4@gmail.com"><img src="https://img.shields.io/badge/Email-163A5F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 💙 About me
 
