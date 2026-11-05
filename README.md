@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=1F4E79&center=true&vCenter=true&width=700&height=60&lines=Hello%2C+I'm+%C3%89rica+Silveira+%F0%9F%92%BB;I'm+18+years+old+%F0%9F%8C%8A;I'm+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Computer+Science+student+%F0%9F%92%99" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=1F4E79&center=true&vCenter=true&width=700&height=60&lines=Hello%2C+I'm+%C3%89rica+Silveira+%F0%9F%92%BB;I'm+19+years+old+%F0%9F%8C%8A;I'm+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Computer+Science+student+%F0%9F%92%99" />
 
 <br>
 
@@ -10,7 +10,7 @@
 
 💙 About me
 
-Hi! I'm Érica Silveira, an 18-year-old Computer Science student from Brazil.
+Hi! I'm Érica Silveira, an 19-year-old Computer Science student from Brazil.
 
 I'm interested in software development, web technologies andprogramming. I'm currently strengthening my programming fundamentalsand learning new tools by building practical projects.
 
